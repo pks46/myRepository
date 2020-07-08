@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="12" passed="12" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2020-07-08T20:34:47 IST" name="Test maven Suite1" finished-at="2020-07-08T20:34:48 IST" duration-ms="95">
+    <groups>
+    </groups>
+    <test started-at="2020-07-08T20:34:47 IST" name="Maven Testing" finished-at="2020-07-08T20:34:48 IST" duration-ms="95">
+      <class name="com.qa.test.DemoTest">
+        <test-method signature="div()[pri:0, instance:com.qa.test.DemoTest@1a38c59b]" started-at="2020-07-08T20:34:48 IST" name="div" finished-at="2020-07-08T20:34:48 IST" duration-ms="14" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- div -->
+        <test-method signature="mul()[pri:0, instance:com.qa.test.DemoTest@1a38c59b]" started-at="2020-07-08T20:34:48 IST" name="mul" finished-at="2020-07-08T20:34:48 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- mul -->
+        <test-method signature="sub()[pri:0, instance:com.qa.test.DemoTest@1a38c59b]" started-at="2020-07-08T20:34:48 IST" name="sub" finished-at="2020-07-08T20:34:48 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- sub -->
+        <test-method signature="sum()[pri:0, instance:com.qa.test.DemoTest@1a38c59b]" started-at="2020-07-08T20:34:48 IST" name="sum" finished-at="2020-07-08T20:34:48 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- sum -->
+      </class> <!-- com.qa.test.DemoTest -->
+      <class name="com.qa.test.DemoTest1">
+        <test-method signature="div()[pri:0, instance:com.qa.test.DemoTest1@7f77e91b]" started-at="2020-07-08T20:34:48 IST" name="div" finished-at="2020-07-08T20:34:48 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- div -->
+        <test-method signature="mul()[pri:0, instance:com.qa.test.DemoTest1@7f77e91b]" started-at="2020-07-08T20:34:48 IST" name="mul" finished-at="2020-07-08T20:34:48 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- mul -->
+        <test-method signature="sub()[pri:0, instance:com.qa.test.DemoTest1@7f77e91b]" started-at="2020-07-08T20:34:48 IST" name="sub" finished-at="2020-07-08T20:34:48 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- sub -->
+        <test-method signature="sum()[pri:0, instance:com.qa.test.DemoTest1@7f77e91b]" started-at="2020-07-08T20:34:48 IST" name="sum" finished-at="2020-07-08T20:34:48 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- sum -->
+      </class> <!-- com.qa.test.DemoTest1 -->
+      <class name="com.qa.test.DemoTest2">
+        <test-method signature="div()[pri:0, instance:com.qa.test.DemoTest2@44a664f2]" started-at="2020-07-08T20:34:48 IST" name="div" finished-at="2020-07-08T20:34:48 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- div -->
+        <test-method signature="mul()[pri:0, instance:com.qa.test.DemoTest2@44a664f2]" started-at="2020-07-08T20:34:48 IST" name="mul" finished-at="2020-07-08T20:34:48 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- mul -->
+        <test-method signature="sub()[pri:0, instance:com.qa.test.DemoTest2@44a664f2]" started-at="2020-07-08T20:34:48 IST" name="sub" finished-at="2020-07-08T20:34:48 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- sub -->
+        <test-method signature="sum()[pri:0, instance:com.qa.test.DemoTest2@44a664f2]" started-at="2020-07-08T20:34:48 IST" name="sum" finished-at="2020-07-08T20:34:48 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- sum -->
+      </class> <!-- com.qa.test.DemoTest2 -->
+    </test> <!-- Maven Testing -->
+  </suite> <!-- Test maven Suite1 -->
+</testng-results>
